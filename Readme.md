@@ -2,5 +2,5 @@
 
 ### Stack Used :-
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
